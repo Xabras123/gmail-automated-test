@@ -1,0 +1,12 @@
+com/accenture/certification/selenitycucumber/runners/SendNewEmail.java
+ com.accenture.certification.selenitycucumber.runners.SendNewEmail
+com/accenture/certification/selenitycucumber/userinterface/WritePage.java
+ com.accenture.certification.selenitycucumber.userinterface.WritePage
+com/accenture/certification/selenitycucumber/userinterface/GmailPage.java
+ com.accenture.certification.selenitycucumber.userinterface.GmailPage
+com/accenture/certification/selenitycucumber/steps/Gmail.java
+ com.accenture.certification.selenitycucumber.steps.Gmail
+com/accenture/certification/selenitycucumber/stepdefinitions/SendNewEmailStepDefinitions.java
+ com.accenture.certification.selenitycucumber.stepdefinitions.SendNewEmailStepDefinitions
+com/accenture/certification/selenitycucumber/userinterface/CheckEmail.java
+ com.accenture.certification.selenitycucumber.userinterface.CheckEmail
